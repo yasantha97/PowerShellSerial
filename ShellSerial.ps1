@@ -1,7 +1,7 @@
 
 #Serial monitor using powershell 
 
-$portName = "COM7"   #insert your comport here
+$portName = "COM7"   #insert your com port here
 $baudRate = 115200   #insert your baudrate here
 
 # Create and open the serial port
